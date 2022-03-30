@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Alexandria
 
-<!--
-**Anorvani/Anorvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Alexandria Norvani and I'm Full Stack Engineer who loves to learn and problem solve. Below are a few projects I recently worked on. 
+Would love to connect!
 
-Here are some ideas to get you started:
+- APEX
+- APEX-Back-End
+- Voluntary
+- Recipe Finder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: acnorvani@gmail.com or https://www.linkedin.com/in/alexandrianorvani/
+
