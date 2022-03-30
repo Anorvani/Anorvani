@@ -21,7 +21,7 @@
   <code><img title="html" height="25" src="images/html.png"></code>
   <code><img title="jest" height="25" src="images/jest.png"></code>
   <code><img title="mocha" height="25" src="images/mocha.png"></code>
-  <code><img title="mongoDB" height="25" src="images/mongo.png"></code>
+  <code><img title="mongoDB" height="25" src="images/mongo.jpeg"></code>
   <code><img title="mysql" height="25" src="images/mysql.png"></code>
   <code><img title="nginx" height="25" src="images/nginx.png"></code>
   <code><img title="node" height="25" src="images/node.png"></code>
